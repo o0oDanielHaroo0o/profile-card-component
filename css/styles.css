@@ -2,5 +2,23 @@
     box-sizing: border-box;
 }
 
+body{
+    max-height: 100vh;
+    overflow: hidden;
+    background-color: hsl(185, 75%, 39%);
+}
+
+.top-pattern{
+    position: absolute;
+    bottom: 50vh;
+    right: 50vw;
+}
+
+.bottom-pattern{
+    position: absolute;
+    top: 50vh;
+    left: 50vw;
+}
+
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
