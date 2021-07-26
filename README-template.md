@@ -22,7 +22,9 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### The challenge
 
-- Build out the project to the designs provided
+- Build out the project this profile card component and get it looking as close to the design as possible with the designs provided.
+
+![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
 ### Screenshot
 
@@ -42,6 +44,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+
+- I started by analyzing the picture of the original design and planning my approach.
+- I created the basic HTML structure and gave classes to the elements.
 
 ### Built with
 
@@ -95,9 +100,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@o0oDanielHaroo0o](https://www.frontendmentor.io/profile/o0oDanielHaroo0o)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
