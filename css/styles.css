@@ -5,7 +5,11 @@
 body{
     max-height: 100vh;
     overflow: hidden;
+    font-size: 18px;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 700;
     background-color: hsl(185, 75%, 39%);
+    color: hsl(229, 23%, 23%);
 }
 
 .top-pattern{
@@ -20,5 +24,74 @@ body{
     left: 50vw;
 }
 
-.attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); }
+.card{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 350px;
+    height: 400px;
+    margin-top: -200px;
+    margin-left: -175px;
+    background-color: #fff;
+}
+
+.card-pattern{
+    position: relative;
+    height: 140px;
+}
+
+.user{
+    position: relative;
+    width: 100%;
+    height: 170px;
+    border-bottom: 1px solid hsl(220, 10%, 89%);
+}
+
+.user-info{
+    height: 85px;
+    padding-top: 95px;
+    text-align: center;
+}
+
+.user-info-top{
+    margin-bottom: 10px;
+}
+
+.name{
+    padding-right: 10px;
+}
+
+.user-info-bottom, .age, .category{
+    font-weight: 400;
+    color: hsl(0, 0%, 59%);
+}
+
+.user-info-bottom{
+    font-size: 16px;
+}
+
+.number{
+    margin-bottom: 5px;
+}
+
+.category{
+    font-size: 10.5px;
+    letter-spacing: 1.5px;
+}
+
+.stats{
+    position: relative;
+    width: 100%;
+    height: 90px;
+}
+
+.stat-container{
+    display: inline-block;
+    width: 32.55%;
+    height: 100%;
+    padding: 28px 0;
+    text-align: center;
+}
+
+/* .attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); } */
