@@ -49,12 +49,12 @@ body{
 
 .user-info{
     height: 85px;
-    padding-top: 95px;
+    padding-top: 85px;
     text-align: center;
 }
 
 .user-info-top{
-    margin-bottom: 10px;
+    margin-bottom: 15px;
 }
 
 .name{
@@ -83,14 +83,27 @@ body{
     position: relative;
     width: 100%;
     height: 90px;
+    padding: 0 40px;
 }
 
 .stat-container{
     display: inline-block;
-    width: 32.55%;
+    width: 31.55%;
     height: 100%;
     padding: 28px 0;
     text-align: center;
+}
+
+.profilepic{
+    position: absolute;
+    top: 84px;
+    left: 122px;
+    width: 106px;
+    height: 106px;
+    border: 5px solid #fff;
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: #fff;
 }
 
 /* .attribution { font-size: 11px; text-align: center; }

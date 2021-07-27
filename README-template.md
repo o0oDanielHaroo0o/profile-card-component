@@ -47,17 +47,16 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 - I started by analyzing the picture of the original design and planning my approach.
 - I created the basic HTML structure and gave classes to the elements.
+- I positioned the card container using the property position absolute and negative top margin.
+- I positioned the user info and the stats inside the card using box-model properties.
+- I gave styles to the elements that I already positioned inside the card container.
+- I positioned the profile picture and gave it styles.
+- I adjusted the other styles to look better and closer to the original design.
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
