@@ -109,5 +109,16 @@ body{
     background-color: #fff;
 }
 
-/* .attribution { font-size: 11px; text-align: center; }
-.attribution a { color: hsl(228, 45%, 44%); } */
+.attribution { 
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 350px;
+    margin-left: -175px;
+    text-align: center;
+    font-size: 11px;
+    font-weight: 400;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}

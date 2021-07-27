@@ -53,6 +53,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - I positioned the profile picture and gave it styles.
 - I adjusted the other styles to look better and closer to the original design.
 - I gave styled the card container with a border radius and a box-shadow to look as close as I was able to the original design.
+- I positioned and styled the attribution section.
 
 ### Built with
 
