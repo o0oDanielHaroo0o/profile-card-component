@@ -52,6 +52,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - I gave styles to the elements that I already positioned inside the card container.
 - I positioned the profile picture and gave it styles.
 - I adjusted the other styles to look better and closer to the original design.
+- I gave styled the card container with a border radius and a box-shadow to look as close as I was able to the original design.
 
 ### Built with
 
