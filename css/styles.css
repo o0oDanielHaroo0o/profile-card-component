@@ -31,8 +31,8 @@ body{
     top: 50%;
     left: 50%;
     width: 350px;
-    height: 400px;
-    margin-top: -200px;
+    height: 375px;
+    margin-top: -187.5px;
     margin-left: -175px;
     border-radius: 20px;
     overflow: hidden;
@@ -41,7 +41,6 @@ body{
 }
 
 .card-header{
-    position: relative;
     height: 140px;
 }
 
@@ -58,15 +57,13 @@ body{
 }
 
 .card-body{
-    position: relative;
     width: 100%;
-    height: 170px;
+    height: 140px;
     border-bottom: 1px solid hsl(220, 10%, 89%);
 }
 
 .user-info{
-    height: 85px;
-    padding-top: 85px;
+    padding-top: 45px;
     text-align: center;
 }
 
@@ -78,7 +75,7 @@ body{
     padding-right: 10px;
 }
 
-.city, .age, .category{
+.text-light{
     font-weight: 400;
     color: hsl(0, 0%, 59%);
 }
@@ -88,9 +85,8 @@ body{
 }
 
 .stats{
-    position: relative;
     width: 100%;
-    height: 90px;
+    height: 95px;
     padding: 0 40px;
 }
 
@@ -98,7 +94,7 @@ body{
     display: inline-block;
     width: 31.55%;
     height: 100%;
-    padding: 28px 0;
+    padding: 10px 0;
     text-align: center;
 }
 
@@ -108,7 +104,7 @@ body{
 
 .category{
     font-size: 10.5px;
-    letter-spacing: 1.5px;
+    letter-spacing: 1px;
 }
 
 .attribution { 
@@ -123,4 +119,5 @@ body{
 }
 .attribution a { 
     color: hsl(228, 45%, 44%); 
+    text-decoration: none;
 }
