@@ -19,7 +19,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### The challenge
 
-Build out the project this profile card component and get it looking as close to the design as possible with the designs provided.
+Build out this profile card component and get it looking as close to the design as possible with the designs provided.
 
 ![Design preview for the Profile card component coding challenge](./design/desktop-preview.jpg)
 
